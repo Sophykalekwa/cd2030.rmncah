@@ -8,6 +8,8 @@ Authors@R: c(
       person("Peter", "Kaberia", , "pkaberia@aphrc.org", role = c("aut")),
       person("Godfrey", "Adero", , "gadero@aphrc.org", role = c("aut")),
       person("Rornald", "Muhumuza", , "rmuhumuza@aphrc.org", role = c("aut")),
+      person("Anne", "Njeri", , "rmuhumuza@aphrc.org", role = c("aut")),
+      person("Sophia", "Kagoye", , "rmuhumuza@aphrc.org", role = c("aut")),
       person("African Population and Health Research Center (APHRC)", 
             role = c("cph", "fnd"))
     )
